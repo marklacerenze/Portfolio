@@ -9,7 +9,7 @@ const Body = () => {
   return (
     <div>
       <div className='container m-auto p-3 d-flex'>
-        <img src={mark} with='auto' className='card'/>
+        <img src={mark} with='auto' className='card img-fluid'/>
         <div className='container bg-warning card p-3 ' style={{opacity: "0.8"}}>
           <h2 className='container text-dark'>ABOUT ME</h2>
           <p className='container' with='auto'><i>
