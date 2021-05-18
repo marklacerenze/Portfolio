@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.68f2ae8c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.68f2ae8c.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
+    "static/css/2.62cbf21c.chunk.css": "/portfolio/static/css/2.62cbf21c.chunk.css",
+    "static/js/2.8a67ffec.chunk.js": "/portfolio/static/js/2.8a67ffec.chunk.js",
+    "static/js/2.8a67ffec.chunk.js.map": "/portfolio/static/js/2.8a67ffec.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.62cbf21c.chunk.css.map": "/portfolio/static/css/2.62cbf21c.chunk.css.map",
+    "static/js/2.8a67ffec.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8a67ffec.chunk.js.LICENSE.txt",
+    "static/media/English.96293564.pdf": "/portfolio/static/media/English.96293564.pdf",
+    "static/media/Spanish.ae833154.pdf": "/portfolio/static/media/Spanish.ae833154.pdf",
+    "static/media/calculator.2ca92936.png": "/portfolio/static/media/calculator.2ca92936.png",
+    "static/media/first.ff14f98f.png": "/portfolio/static/media/first.ff14f98f.png",
+    "static/media/formalEducation.5185074c.png": "/portfolio/static/media/formalEducation.5185074c.png",
+    "static/media/game.3324e471.jpeg": "/portfolio/static/media/game.3324e471.jpeg",
+    "static/media/header2.a7cc2cb9.png": "/portfolio/static/media/header2.a7cc2cb9.png",
+    "static/media/login.e59993de.png": "/portfolio/static/media/login.e59993de.png",
+    "static/media/logo.e621be94.png": "/portfolio/static/media/logo.e621be94.png",
+    "static/media/logoUTN.7cfaa28b.png": "/portfolio/static/media/logoUTN.7cfaa28b.png",
+    "static/media/mark.8c949c2a.jpeg": "/portfolio/static/media/mark.8c949c2a.jpeg",
+    "static/media/project.13767013.png": "/portfolio/static/media/project.13767013.png",
+    "static/media/skills.8394c434.png": "/portfolio/static/media/skills.8394c434.png",
+    "static/media/todolist.9120cb46.png": "/portfolio/static/media/todolist.9120cb46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9f76519.js",
+    "static/css/2.62cbf21c.chunk.css",
+    "static/js/2.8a67ffec.chunk.js",
+    "static/js/main.68f2ae8c.chunk.js"
+  ]
+}
