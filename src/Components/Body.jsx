@@ -3,7 +3,7 @@ import BodyProjects from './BodyProjects/BodyProjects'
 import BodySkills from './BodySkills/BodySkills'
 import ProjectHeader from './ProjectHeader/ProjectHeader'
 import Education from './Education/Education'
-import mark from '../img/mark.jpeg'
+import mark from '../img/mark.png'
 
 const Body = () => {
   return (
