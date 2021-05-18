@@ -12,8 +12,7 @@ const Body = () => {
         <div className='container' width='50%'>
           <img src={mark} className='img-fluid rounded'/>
         </div>
-        {/* <img src={mark} className='card img-fluid'/> */}
-        <div className='container bg-warning card p-3 ' style={{opacity: "0.8"}}>
+        <div className='contenedor container bg-warning card p-3' style={{opacity: "0.8", "overflow-y": "scroll", height: "50vh"}}>
           <h2 className='container text-dark' with='50%'>ABOUT ME</h2>
           <p className='container' with='auto'><i>
           "Hey! I´m Marcos. My taste for computing and programming led me to learn new technologies and new languages 
