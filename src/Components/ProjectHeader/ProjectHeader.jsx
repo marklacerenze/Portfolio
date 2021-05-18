@@ -3,9 +3,9 @@ import project from '../ProjectHeader/project.png';
 
 const ProjectHeader = () => {
   return (
-    <div className='container'>
+    <div className='container '>
       <a href='https://github.com/marklacerenze' target='a_blank'>
-        <img src={project} width='100%' height='0%'/>
+        <img src={project} width='100%' height='0%' className='rounded'/>
       </a>
     </div>
   );

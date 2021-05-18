@@ -7,7 +7,7 @@ const Education = () => {
     <div className='m-auto'>
       <div className='container mb-2 mt-4'>
         <a href='http://mdp.utn.edu.ar/' alt='utn-web'>
-          <img src={formalEducation} width='100%' height='0%'/>
+          <img src={formalEducation} width='100%' height='0%' className='rounded'/>
         </a>
       </div>
       <EdUni/>

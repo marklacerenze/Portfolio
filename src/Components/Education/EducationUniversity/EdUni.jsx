@@ -5,7 +5,7 @@ const EdUni = () => {
   return (
     <div className='container d-flex'>
       <div className='container'>
-        <img src={logoUTN} width='80%' alt='logo-utn'/>
+        <img src={logoUTN} width='80%' alt='logo-utn' className='img-fluid'/>
       </div>
 
       <div className='card p-1' style={{backgroundColor: "#fff"}}>
