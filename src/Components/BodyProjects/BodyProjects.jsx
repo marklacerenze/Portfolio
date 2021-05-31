@@ -5,11 +5,23 @@ import localsearch from './Project-Img/localsearch.png'
 import game from './Project-Img/game.jpeg'
 import first from './Project-Img/first.png'
 import login from './Project-Img/login.png'
+import studentList from './Project-Img/studentList.png'
 
 const BodyProjects = () => {
   return (
     <div className='container container-fluid mr-auto p-3'>
       <div className='row'>
+
+        <div className='container-fluid card' style= {{width: "18rem", border: "1px solid grey"}}>
+          <img src={studentList} className='card-img-top mt-3' alt='ToDo-List'/>
+          <div className='card-body'>
+            <h5 className='card-title'>Student List</h5>
+            <p className='card-text'>In this app, i used a student API to show information people.</p>
+            <a href='https://github.com/marklacerenze/PersonalSearch' className='btn btn-primary' target='a_blank'>Go to code!</a>
+            <a href='https://ml-studentlist.herokuapp.com/' className='btn btn-success' target='a_blank'>View demo</a>
+          </div>
+        </div>
+
         <div className='container-fluid card' style= {{width: "18rem", border: "1px solid grey"}}>
           <img src={todolist} className='card-img-top mt-3' alt='ToDo-List'/>
           <div className='card-body mt-3'>
